@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">admin</string>
+    <string name="title_activity_splashscreen">Lorryadmin</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="default_web_client_id">667895171303-2g2rp0vbe2p119n4a1gj3a9rbo8pthsg.apps.googleusercontent.com</string>
+</resources>

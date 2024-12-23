@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "667895171303",
+    "firebase_url": "https://bookingmaster-a484c-default-rtdb.firebaseio.com",
+    "project_id": "bookingmaster-a484c",
+    "storage_bucket": "bookingmaster-a484c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667895171303:android:75feb41bef791ee9217a42",
+        "android_client_info": {
+          "package_name": "com.example.lorryadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667895171303-ig52qdrvm7nlmaf0b9mc0da91pt9pun3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lorryadmin",
+            "certificate_hash": "baf5e59045168f54d5b4497b76acc3e50ab87946"
+          }
+        },
+        {
+          "client_id": "667895171303-2g2rp0vbe2p119n4a1gj3a9rbo8pthsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO8212J5_zDdchfndD8EwqNJeiZENcwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667895171303-2g2rp0vbe2p119n4a1gj3a9rbo8pthsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667895171303:android:54d2d06e1d732763217a42",
+        "android_client_info": {
+          "package_name": "com.example.lorryhub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667895171303-pbl7rjbab30stp5tv46vqot5tm6id1so.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lorryhub",
+            "certificate_hash": "baf5e59045168f54d5b4497b76acc3e50ab87946"
+          }
+        },
+        {
+          "client_id": "667895171303-2g2rp0vbe2p119n4a1gj3a9rbo8pthsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO8212J5_zDdchfndD8EwqNJeiZENcwhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667895171303-2g2rp0vbe2p119n4a1gj3a9rbo8pthsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
